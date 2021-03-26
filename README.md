@@ -32,3 +32,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 #### build to docs folder for github pages
 
 `npx next build && npx next export -o docs`
+
